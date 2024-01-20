@@ -64,12 +64,14 @@ nav {
 
 #content1 {
     display: flex;
+    width: 100%;
     margin: 50px 30px 0px 30px;
     justify-content: space-around;
 }
 
 #content2 {
     padding: 1px 1px;
+    width: 100%;
     margin: 0 45px;
     display: flex;
     justify-content: stretch;
@@ -88,6 +90,7 @@ nav {
 #content3 {
     padding: 1px 1px;
     display: flex;
+    width: 100%;
     justify-content: stretch;
 }
 
@@ -103,6 +106,7 @@ nav {
 
 #content4 {
     margin-top: 30px;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -110,7 +114,7 @@ nav {
 }
 
 #content5 {
-    width:auto;
+    width:100%;
     margin: 0 45px;
     display: flex;
     justify-content:center;
@@ -170,6 +174,7 @@ nav {
 #content6 {
     padding: 40px 0;
     margin: 0 45px;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content:space-evenly;
