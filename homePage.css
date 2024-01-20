@@ -281,7 +281,7 @@ button:hover {
     background-color: rgb(84, 83, 83);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1100px) {
     /* Styles for screens with a maximum width of 600px (typical for mobile devices) */
     header {
         width: 100%;
